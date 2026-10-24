@@ -1,0 +1,4 @@
+machinlearning/
+__pycache__/
+requirements-full.txt
+*.xlsx
